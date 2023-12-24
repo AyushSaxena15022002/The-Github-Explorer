@@ -11,6 +11,7 @@ State Management in react is a difficult task thereby the project makes good use
 Using FusionCharts library I have created interactive and visually appealing charts and graphs namely PIE3D , Column3D , Doughnut2D and Bar3D to display information about the repos like stars , languages , forks , etc.   
 
 Styled-components library helped me to provide CSS to several components individually and used global styles otherwise.
+I have used 2 column layout for the charts and represented them in 2fractions and 3fractions of the width of the web page and also ensured that heights are also adjusted accordingly to maintain the responsivenes of the site.
 
 This project helped me to solidify my react skills to build Dynamic websites with User-friendly interfaces. 
 
